@@ -1,0 +1,8 @@
+node_modules
+.prettierrc
+LICENSE
+.vscode
+.github
+README.md
+yarn.lock
+tsconfig.json
