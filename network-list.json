@@ -1,0 +1,326 @@
+[
+  {
+    "prefix": 817,
+    "network": "Globe"
+  },
+  {
+    "prefix": 895,
+    "network": "Dito"
+  },
+  {
+    "prefix": 896,
+    "network": "Dito"
+  },
+  {
+    "prefix": 897,
+    "network": "Dito"
+  },
+  {
+    "prefix": 898,
+    "network": "Dito"
+  },
+  {
+    "prefix": 905,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 906,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 907,
+    "network": "TNT"
+  },
+  {
+    "prefix": 908,
+    "network": "Smart"
+  },
+  {
+    "prefix": 909,
+    "network": "TNT"
+  },
+  {
+    "prefix": 910,
+    "network": "TNT"
+  },
+  {
+    "prefix": 912,
+    "network": "TNT"
+  },
+  {
+    "prefix": 915,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 916,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 917,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 918,
+    "network": "Smart"
+  },
+  {
+    "prefix": 919,
+    "network": "Smart"
+  },
+  {
+    "prefix": 920,
+    "network": "Smart"
+  },
+  {
+    "prefix": 921,
+    "network": "Smart"
+  },
+  {
+    "prefix": 922,
+    "network": "Sun"
+  },
+  {
+    "prefix": 923,
+    "network": "Sun"
+  },
+  {
+    "prefix": 924,
+    "network": "Sun"
+  },
+  {
+    "prefix": 925,
+    "network": "Sun"
+  },
+  {
+    "prefix": 926,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 927,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 928,
+    "network": "Smart"
+  },
+  {
+    "prefix": 929,
+    "network": "Smart"
+  },
+  {
+    "prefix": 961,
+    "network": "Smart"
+  },
+  {
+    "prefix": 9256,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 930,
+    "network": "TNT"
+  },
+  {
+    "prefix": 965,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 9257,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 931,
+    "network": "Sun"
+  },
+  {
+    "prefix": 966,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 9258,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 932,
+    "network": "Sun"
+  },
+  {
+    "prefix": 967,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 933,
+    "network": "Sun"
+  },
+  {
+    "prefix": 973,
+    "network": "Sun"
+  },
+  {
+    "prefix": 934,
+    "network": "Sun"
+  },
+  {
+    "prefix": 974,
+    "network": "Sun"
+  },
+  {
+    "prefix": 935,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 975,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 936,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 976,
+    "network": "Globe/GOMO"
+  },
+  {
+    "prefix": 937,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 977,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 938,
+    "network": "TNT"
+  },
+  {
+    "prefix": 978,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 939,
+    "network": "Smart"
+  },
+  {
+    "prefix": 979,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 940,
+    "network": "Sun"
+  },
+  {
+    "prefix": 991,
+    "network": "Dito"
+  },
+  {
+    "prefix": 941,
+    "network": "Sun"
+  },
+  {
+    "prefix": 992,
+    "network": "Dito"
+  },
+  {
+    "prefix": 942,
+    "network": "Sun"
+  },
+  {
+    "prefix": 993,
+    "network": "Dito"
+  },
+  {
+    "prefix": 943,
+    "network": "Sun"
+  },
+  {
+    "prefix": 994,
+    "network": "Dito"
+  },
+  {
+    "prefix": 945,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 995,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 946,
+    "network": "TNT"
+  },
+  {
+    "prefix": 996,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 947,
+    "network": "Smart"
+  },
+  {
+    "prefix": 997,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 948,
+    "network": "TNT"
+  },
+  {
+    "prefix": 998,
+    "network": "Smart"
+  },
+  {
+    "prefix": 949,
+    "network": "Smart"
+  },
+  {
+    "prefix": 999,
+    "network": "Smart"
+  },
+  {
+    "prefix": 950,
+    "network": "TNT"
+  },
+  {
+    "prefix": 9173,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 951,
+    "network": "Smart"
+  },
+  {
+    "prefix": 9175,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 953,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 9176,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 954,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 9178,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 955,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 9253,
+    "network": "Globe PostPaid"
+  },
+  {
+    "prefix": 956,
+    "network": "Globe/TM"
+  },
+  {
+    "prefix": 9255,
+    "network": "Globe PostPaid"
+  }
+]

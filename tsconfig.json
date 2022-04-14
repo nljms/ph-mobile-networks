@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outDir": "lib",
+    "moduleResolution": "Node",
+    "rootDir": "./src",
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "types": ["node"],
+    "esModuleInterop": true
+  },
+  "compileOnSave": true,
+  "exclude": [
+    "node_modules/**/*",
+    ".webpack/**/*",
+    "_warmup/**/*",
+    ".github/**/*",
+    ".vscode/**/*"
+  ],
+  "include": ["src/*.ts"],
+  "buildOptions": {
+    "assumeChangesOnlyAffectDirectDependencies": false
+  }
+}
