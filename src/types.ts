@@ -1,4 +1,4 @@
-export enum NetworkProvider {
+export enum Provider {
   DITO = 'Dito',
   GLOBE = 'Globe',
   GLOBE_POSTPAID = 'Globe Postpaid',
@@ -10,6 +10,15 @@ export enum NetworkProvider {
 }
 
 export interface Network {
+  displayName: string;
+  providers: Provider[];
+}
+
+export interface NetworkProvider<T = Network> {
   prefix: string;
-  network: NetworkProvider;
+  network: T;
+}
+
+export interface MobileNetworks {
+  getNetwork: (prefix: string) => NetworkProvider;
 }
