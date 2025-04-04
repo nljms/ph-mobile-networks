@@ -31,6 +31,13 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn build
       - run: echo "Deploying ${{ github.ref_name }} version publicly"
-      - run: yarn publish --access public --new-version ${{ github.ref_name }}
+      - run: |
+          version=$(echo "${{ github.ref_name }}" | grep -oP '^v?\K([0-9]+\.[0-9]+\.[0-9]+)$')
+          if [ -n "$version" ]; then
+            yarn publish --access public --new-version "$version"
+          else
+            echo "Invalid version format: ${{ github.ref_name }}"
+            exit 1
+          fi
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_SECRET}}
