@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 16
-          cache: "yarn"
+          cache: 'yarn'
       - run: yarn install --frozen-lockfile
 
   publish-npm:
@@ -30,6 +30,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - run: yarn install --frozen-lockfile
       - run: yarn build
-      - run: yarn publish --access public
+      - run: echo "Deploying ${{ github.ref_name }} version publicly"
+      - run: yarn publish --access public --new-version ${{ github.ref_name }}
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_SECRET}}
